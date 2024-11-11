@@ -1,0 +1,6 @@
+polars
+pandas 
+nbval
+matplotlib
+tabulate
+seaborn
