@@ -78,3 +78,8 @@ Continuous Integration (CI) checks are automatically run using GitHub Actions. Y
 ### Contributing
 
 Feel free to fork the repository and submit pull requests for improvements or bug fixes. Ensure your changes pass the linting and test suites before submission.
+
+### Result
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/fc56c81f-36a9-4f24-9ad1-49fd419f4748">
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/8ed91ed8-5aba-4f6b-b4bb-cf5f5681b774">
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/30b7ff93-89df-404f-a31a-fb93575f10ac">
